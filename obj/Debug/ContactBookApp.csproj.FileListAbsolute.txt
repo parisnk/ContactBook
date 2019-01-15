@@ -1,0 +1,12 @@
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\bin\Debug\ContactBookApp.exe.config
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\bin\Debug\ContactBookApp.exe
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\bin\Debug\ContactBookApp.pdb
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.csprojAssemblyReference.cache
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.Form1.resources
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.Properties.Resources.resources
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.csproj.GenerateResource.cache
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.exe
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\obj\Debug\ContactBookApp.pdb
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\bin\Debug\Database1.mdf
+C:\Users\B\source\repos\ContactBookApp\ContactBookApp\bin\Debug\Database1_log.ldf
